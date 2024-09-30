@@ -1,1 +1,1 @@
-# dataset
+This dataset was designed to show the human interaction with nature that can benefit both parties. The collection of images depicts mesh bags and built structures used to support plants as they grow, pruning, and grafting.
